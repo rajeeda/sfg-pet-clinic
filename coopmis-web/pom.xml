@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>sfg-pet-clinic</artifactId>
-        <groupId>guru.springframework</groupId>
+        <artifactId>coopmis-master</artifactId>
+        <groupId>com.rajeeda</groupId>
         <version>0.0.5-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>pet-clinic-web</artifactId>
+    <artifactId>coopmis-web</artifactId>
 
     <properties>
         <!-- Web dependencies -->
@@ -20,8 +20,8 @@
 
     <dependencies>
         <dependency>
-            <artifactId>pet-clinic-data</artifactId>
-            <groupId>guru.springframework</groupId>
+            <artifactId>coopmis-data</artifactId>
+            <groupId>com.rajeeda</groupId>
             <version>0.0.5-SNAPSHOT</version>
         </dependency>
 
